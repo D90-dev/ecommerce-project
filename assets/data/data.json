@@ -1,0 +1,197 @@
+{
+    "theLatestAndGreatest" : [
+        {
+            "category": "T-Shirts",
+            "subcategory": "Women’s Clothes",
+            "price": "$13",
+            "bgImage": "image3.png"
+        },
+        {
+            "category": "Mom shorts",
+            "subcategory": "Women’s Jeans",
+            "price": "$25",
+            "bgImage": "image4.png"
+        },
+        {
+            "category": "Slides",
+            "subcategory": "Women’s Shoes",
+            "price": "$30",
+            "bgImage": "image5.png"
+        }
+    ],
+    "categories" : [
+        {
+            "category": "New Arrivals",
+            "subcategories" : ["View All", "Clothes", "Shoes & Accessories", "Beauty", "Underwear & Nightwear"]
+        },
+        {
+            "category": "Shop by product",
+            "subcategories" : ["Dresses", "Tops", "Shirts & Blouses", "Trousers", "Jeans", "Skirts", "Jackets & Coats", "Sweatshirts & Hoodies", "Sportswear", "Shorts", "Bags", "Cardigans & Jumpers", "Knitwear", "Jumpsuits & Rompers", "Shoes", "Lingerie", "Accessories", "Swimwear & Beachwear", "Nightwear", "Beauty"]
+        }
+    ],
+    "filter" : [
+        {
+            "name" : "<span style='font-weight: 600'>Sort by:</span> Best Match",
+            "variants" : ["Price Low-High", "Price High-Low", "Newest", "Bestsellers"]
+        },
+        {
+            "name" : "Category",
+            "variants" : [
+                {
+                    "title" : "Tops",
+                    "quantity" : "(1568)"
+                },
+                {
+                    "title" : "Dresses",
+                    "quantity" : "(2398)"
+                },
+                {
+                    "title" : "Shorts",
+                    "quantity" : "(567)"
+                },
+                {
+                    "title" : "Jeans",
+                    "quantity" : "(144)"
+                },
+                {
+                    "title" : "Swimwear",
+                    "quantity" : "(60)"
+                }
+            ]
+        },
+        {
+            "name" : "Style",
+            "variants" : []
+        },
+        {
+            "name" : "Fit",
+            "variants" : []
+        },
+        {
+            "name" : "Size",
+            "variants" : []
+        },
+        {
+            "name" : "Color",
+            "variants" : []
+        },
+        {
+            "name" : "Price",
+            "min" : 1,
+            "max" : 500
+        }
+    ],
+    "products" : [
+        {
+            "category": "T-Shirts",
+            "subcategory": "Women’s Clothes",
+            "price": "$13",
+            "bgImage": "image3.png"
+        },
+        {
+            "category": "Mom shorts",
+            "subcategory": "Women’s Jeans",
+            "price": "$25",
+            "bgImage": "image4.png"
+        },
+        {
+            "category": "Slides",
+            "subcategory": "Women’s Shoes",
+            "price": "$30",
+            "bgImage": "image5.png"
+        },
+        {
+            "category": "T-Shirts",
+            "subcategory": "Women’s Clothes",
+            "price": "$13",
+            "bgImage": "image3.png"
+        },
+        {
+            "category": "Mom shorts",
+            "subcategory": "Women’s Jeans",
+            "price": "$25",
+            "bgImage": "image4.png"
+        },
+        {
+            "category": "Slides",
+            "subcategory": "Women’s Shoes",
+            "price": "$30",
+            "bgImage": "image5.png"
+        },
+        {
+            "category": "T-Shirts",
+            "subcategory": "Women’s Clothes",
+            "price": "$13",
+            "bgImage": "image3.png"
+        },
+        {
+            "category": "Mom shorts",
+            "subcategory": "Women’s Jeans",
+            "price": "$25",
+            "bgImage": "image4.png"
+        },
+        {
+            "category": "Slides",
+            "subcategory": "Women’s Shoes",
+            "price": "$30",
+            "bgImage": "image5.png"
+        },
+        {
+            "category": "T-Shirts",
+            "subcategory": "Women’s Clothes",
+            "price": "$13",
+            "bgImage": "image3.png"
+        },
+        {
+            "category": "Mom shorts",
+            "subcategory": "Women’s Jeans",
+            "price": "$25",
+            "bgImage": "image4.png"
+        },
+        {
+            "category": "Slides",
+            "subcategory": "Women’s Shoes",
+            "price": "$30",
+            "bgImage": "image5.png"
+        },
+        {
+            "category": "T-Shirts",
+            "subcategory": "Women’s Clothes",
+            "price": "$13",
+            "bgImage": "image3.png"
+        },
+        {
+            "category": "Mom shorts",
+            "subcategory": "Women’s Jeans",
+            "price": "$25",
+            "bgImage": "image4.png"
+        },
+        {
+            "category": "Slides",
+            "subcategory": "Women’s Shoes",
+            "price": "$30",
+            "bgImage": "image5.png"
+        }
+    ],
+    "recentlyViewed" : [
+        {
+            "category": "T-Shirts",
+            "subcategory": "Women’s Clothes",
+            "price": "$13",
+            "bgImage": "image15.png"
+        },
+        {
+            "category": "Band",
+            "subcategory": "Women’s Accessories",
+            "price": "$25",
+            "bgImage": "image16.png"
+        },
+        {
+            "category": "Slides",
+            "subcategory": "Women’s Shoes",
+            "price": "$30",
+            "bgImage": "image17.png"
+        }
+    ]
+}
+                                      

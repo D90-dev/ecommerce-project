@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: HelveticaNeue;
+}
+
+@layer components {
+    .btn-black {
+        @apply bg-black capitalize text-white py-2.5 px-7 rounded-full w-max;
+    }
+
+    .btn-white {
+        @apply bg-white capitalize text-black py-2.5 px-7 rounded-full w-max;
+    }
+}
+
+@font-face {
+    font-family: HelveticaNeue;
+    src: url("../fonts/Helvetica-Neue-Font/Helvetica\ Neue.otf") format("opentype"),
+         url("../fonts/Helvetica-Neue-Font/Helvetica\ Neue.ttf")  format("truetype");
+}
+
+button, input {
+    outline: none;
+}
